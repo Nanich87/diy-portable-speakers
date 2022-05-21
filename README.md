@@ -1,1 +1,1 @@
-# mini-speaker-enclosure
+# Mini Speaker Enclosure
